@@ -1,5 +1,4 @@
 import random
-import datetime
 
 def response(msg) ->str:
 
